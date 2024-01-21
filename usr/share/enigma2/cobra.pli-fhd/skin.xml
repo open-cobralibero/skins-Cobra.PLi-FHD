@@ -159,7 +159,7 @@
   <include filename="skin_templates.xml" />
   <include filename="skin_plugins.xml" />
   <!-- Volume -->
-  <screen name="Volume" title="Volume" position="5,360" size="30,328" backgroundColor="transpBlack" zPosition="1" flags="wfNoBorder">
+  <screen name="Volume" title="Volume" position="5,360" size="20,328" backgroundColor="transpBlack" zPosition="1" flags="wfNoBorder">
     <widget name="Volume" pixmap="cobra.pli-fhd/infobar/volumeslider.png" position="2,2" size="15,300" orientation="orBottomToTop" transparent="1" zPosition="1">
     </widget>
     <ePixmap pixmap="cobra.pli-fhd/infobar/vol_box.png" position="0,303" size="20,24" alphatest="blend" zPosition="1">
